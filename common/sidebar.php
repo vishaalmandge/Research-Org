@@ -41,7 +41,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="#dashboard">
+                    <a href="chat.php">
                         <i class="fas fa-comments"></i>
                         <p>Chat</p>
                     </a>
